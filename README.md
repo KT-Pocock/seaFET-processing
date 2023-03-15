@@ -1,5 +1,5 @@
 # seaFET-processing
-Process data from SeaFET and CTD sensor packages in MATLAB and perform in situ calibration
+Process data from SeaFET and CTD sensor packages in MATLAB
 
 A_raw_pH_read.m
 Concatenate daily SeaFET files into mat file
